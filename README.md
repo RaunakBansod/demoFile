@@ -1,4 +1,4 @@
 # demoFile
 This is my first Git Repository.
 <br>
-Author - Raunak Bansod.
+Author - Raunak (IITP Student).
